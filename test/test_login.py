@@ -5,7 +5,7 @@ from pages.register_page import RegisterPage
 from pages.register_success_page import RegisterSuccessPage
 from resources.constants import TEST_SITE_URL
 
-
+# add a coment
 class TestLogin:
 
     # Test Case 1 ( Registering the user)
